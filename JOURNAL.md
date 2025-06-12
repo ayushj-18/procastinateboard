@@ -1,4 +1,4 @@
-title: "Pet Feeder"
+title: "The Procastinate Board"
 author: "Ayush Jaiswal"
-description: "Automatic Bird/Pet Feeder for your pet if you're away from home!"
-created_at: "2025-05-27"
+description: "Making this personal keyboard so that I don't procastinate making a keyboard later on"
+created_at: "2025-06-12"
