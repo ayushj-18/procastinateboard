@@ -19,7 +19,6 @@ Total time spent: 1h
 Started the schematic and spent time deciding my keyboard schematic. It will be a TKL keyboard with a rotary encoder.
 
 ![Screenshot 2025-06-13 172446](https://github.com/user-attachments/assets/a91eb8fc-b6b7-4721-ac77-59723cb53a91)
-![Screenshot 2025-06-13 172446](https://github.com/user-attachments/assets/a91eb8fc-b6b7-4721-ac77-59723cb53a91)
 
 # Day 2: June 13th, 2025
 
