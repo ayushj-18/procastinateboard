@@ -17,9 +17,10 @@ Total time spent: 1h
 
 ## Time Spent: 2h
 Started the schematic and spent time deciding my keyboard schematic. It will be a TKL keyboard with a rotary encoder.
-Made a duplex matrix on MS Paint to understand how the basic structure of my PCB and firmware will be. Watched some videos on how keyboards work.
+Made a matrix on MS Paint to understand how the basic structure of my PCB and firmware will be. Watched some videos on how keyboards work.
 
-![Screenshot 2025-06-13 172446](https://github.com/user-attachments/assets/a91eb8fc-b6b7-4721-ac77-59723cb53a91)
+![image](https://github.com/user-attachments/assets/78e52dfd-f240-4533-a118-3dcbde5f10cd)
+
 
 # Day 2: June 13th, 2025
 
