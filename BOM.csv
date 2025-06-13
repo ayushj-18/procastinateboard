@@ -1,0 +1,12 @@
+  Part                          Quantity    Notes                                                          
+  ---------------------------   ---------   -------------------------------------------------------------  
+    RP2040 Stamp                1           Adafruit QT Py RP2040
+    SK6812MINI-E LEDs           84          RGB under each key                                  
+    Rotary Encoder (EC11)       1           With Switch prolly                                          
+    Diodes 1N4148               84          1 per key                                                      
+    Tactile switches / MX       84          MX Cherry switches                      
+    Capacitors 0.1uF            3           For power decoupling                                           
+    Resistors 330Ω              1           For SK6812 data line                            
+    USB-C connector             1           If not using premade RP2040 dev board                          
+    Voltage regulator (LDO)     1           If you’re stepping down from 5V                                
+    Headers / pins              ??          For dev board or ISP/debug                                     
