@@ -14,4 +14,5 @@ Total time spent: 1h
 # Day 1: June 12th, 2025
 
 ## Time Spent: 1h
-Started the schematic
+Started the schematic and spent time deciding my keyboard schematic. It will be a keycool84 keyboard with a rotary encoder or 2. (we'll see).
+
