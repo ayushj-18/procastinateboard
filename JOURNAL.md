@@ -11,7 +11,7 @@ I really wanted to make a keyboard to just gain insights on how electronics like
 
 Inspo- https://www.montechpc.com/mkey-tkl
 
-Total time spent: 1h 
+Total time spent: 11h 
 
 # Day 1: June 12th, 2025
 
@@ -24,5 +24,10 @@ Made a matrix on MS Paint to understand how the basic structure of my PCB and fi
 
 # Day 2: June 13th, 2025
 
-## Time Spent: ~4h
+## Time Spent: 9h
+Literally spent the entire day researching, asking people questions in slack (i love everyone is so helpful) and I basically completed the entire schematic and assigned all footprints. Made a basic draft of my BOM and thats about it. 
+I did struggle so much on figuring out how microcontrollers work and which one will I need. I also had a hard time assigning footprints but I pulled through. 
+My goal for tomorrow will definitly be to make the PCB and start the 3D modeling.
+
+![image](https://github.com/user-attachments/assets/6dbeb918-e56a-4f57-acaf-ed31cbed7eef)
 
